@@ -8,10 +8,10 @@
 
 **********************************************************
 
-# ![Locations](https://github.com/attakercyebr/Telegram-Messenger/blob/master/1.png) 
+# ![Locations](https://github.com/M4nifest0/Telegram-Messenger/blob/master/1.png) 
 
 
-# ![Locations](https://github.com/attakercyebr/Telegram-Messenger/blob/master/02.png) 
+# ![Locations](https://github.com/M4nifest0/Telegram-Messenger/blob/master/02.png) 
 
 
 **********************************************************
